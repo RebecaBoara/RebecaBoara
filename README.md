@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Rebeca Boara  
 
-<!--
-**RebecaBoara/RebecaBoara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Final-year BSc (Hons) Computer Science student** at **Solent University** (Class of 2026)  
+💻 Passionate about **software development, data analytics, and web technologies**  
+🌱 Currently learning **React**, and exploring **cloud computing & AI**  
+🚀 Aspiring to start my career in a **graduate tech or consulting role** where I can grow and contribute to real-world digital solutions  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 💡 Curious problem-solver who enjoys learning 
+- 🤝 Team-oriented and experienced in Agile group projects at university  
+- 🌍 Trilingual: **Romanian**, **English**, and **Spanish**  
+---
+
+## 🛠️ Tech Stack
+**Languages:** Python, Java, C, JavaScript  
+**Web:** HTML, CSS, React, Node.js  
+**Databases:** SQLite, basic SQL  
+**Tools:** Git, GitHub, Figma, Cisco Packet Tracer  
+**Concepts:** OOP, Networking, UX Design, Agile Development, Secure Coding  
+
+---
+
+
+
